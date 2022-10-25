@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Pixlayer Design</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="We are Processing and will be launched soon. 🚀" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+           <a href="https://dribbble.com/pixlayer">Dribbble</a>
         </p>
       </main>
 
